@@ -1,0 +1,138 @@
+[submodule "infosec-course-itmo"]
+	path = infosec-course-itmo
+	url = https://github.com/dzschnd/infosec-course-itmo
+[submodule "systems-administration-course-itmo"]
+	path = systems-administration-course-itmo
+	url = https://github.com/dzschnd/systems-administration-course-itmo
+[submodule "testing-course-itmo"]
+	path = testing-course-itmo
+	url = https://github.com/dzschnd/testing-course-itmo
+[submodule "networking-course-itmo"]
+	path = networking-course-itmo
+	url = https://github.com/dzschnd/networking-course-itmo
+[submodule "compiler-development-course-itmo"]
+	path = compiler-development-course-itmo
+	url = https://github.com/dzschnd/compiler-development-course-itmo
+[submodule "rshd-course-itmo"]
+	path = rshd-course-itmo
+	url = https://github.com/dzschnd/rshd-course-itmo
+[submodule "comp-visualization-course-itmo"]
+	path = comp-visualization-course-itmo
+	url = https://github.com/dzschnd/comp-visualization-course-itmo
+[submodule "ai-systems-course-itmo"]
+	path = ai-systems-course-itmo
+	url = https://github.com/dzschnd/ai-systems-course-itmo
+[submodule "network-modeling-course-itmo"]
+	path = network-modeling-course-itmo
+	url = https://github.com/dzschnd/network-modeling-course-itmo
+[submodule "aps-course-itmo"]
+	path = aps-course-itmo
+	url = https://github.com/dzschnd/aps-course-itmo
+[submodule "spo-course-itmo"]
+	path = spo-course-itmo
+	url = https://github.com/dzschnd/spo-course-itmo
+[submodule "opi-course-itmo"]
+	path = opi-course-itmo
+	url = https://github.com/dzschnd/opi-course-itmo
+[submodule "optimization-methods-course-itmo"]
+	path = optimization-methods-course-itmo
+	url = https://github.com/dzschnd/optimization-methods-course-itmo
+[submodule "calc-math-course-itmo"]
+	path = calc-math-course-itmo
+	url = https://github.com/dzschnd/calc-math-course-itmo
+[submodule "comp-arch-course-itmo"]
+	path = comp-arch-course-itmo
+	url = https://github.com/dzschnd/comp-arch-course-itmo
+[submodule "algos-course-itmo"]
+	path = algos-course-itmo
+	url = https://github.com/dzschnd/algos-course-itmo
+[submodule "prob-theory-course-itmo"]
+	path = prob-theory-course-itmo
+	url = https://github.com/dzschnd/prob-theory-course-itmo
+[submodule "web-course-itmo"]
+	path = web-course-itmo
+	url = https://github.com/dzschnd/web-course-itmo
+[submodule "programming-course-itmo"]
+	path = programming-course-itmo
+	url = https://github.com/dzschnd/programming-course-itmo
+[submodule "opd-course-itmo"]
+	path = opd-course-itmo
+	url = https://github.com/dzschnd/opd-course-itmo
+[submodule "informatics-course-itmo"]
+	path = informatics-course-itmo
+	url = https://github.com/dzschnd/informatics-course-itmo
+[submodule "discrete-math-course-itmo"]
+	path = discrete-math-course-itmo
+	url = https://github.com/dzschnd/discrete-math-course-itmo
+[submodule "db-course-itmo"]
+	path = db-course-itmo
+	url = https://github.com/dzschnd/db-course-itmo
+[submodule "infosec-2"]
+	path = infosec-2
+	url = https://github.com/dzschnd/infosec-2
+[submodule "epi-2-youtrack"]
+	path = epi-2-youtrack
+	url = https://github.com/dzschnd/epi-2-youtrack
+[submodule "infosec-1"]
+	path = infosec-1
+	url = https://github.com/dzschnd/infosec-1
+[submodule "tpo-lab-4"]
+	path = tpo-lab-4
+	url = https://github.com/dzschnd/tpo-lab-4
+[submodule "tpo-lab-3"]
+	path = tpo-lab-3
+	url = https://github.com/dzschnd/tpo-lab-3
+[submodule "tpo-lab-2"]
+	path = tpo-lab-2
+	url = https://github.com/dzschnd/tpo-lab-2
+[submodule "tpo-lab-1"]
+	path = tpo-lab-1
+	url = https://github.com/dzschnd/tpo-lab-1
+[submodule "os-lab-2"]
+	path = os-lab-2
+	url = https://github.com/dzschnd/os-lab-2
+[submodule "os-lab-1"]
+	path = os-lab-1
+	url = https://github.com/dzschnd/os-lab-1
+[submodule "info-systems-lab-2-front"]
+	path = info-systems-lab-2-front
+	url = https://github.com/dzschnd/info-systems-lab-2-front
+[submodule "info-systems-lab-2-back"]
+	path = info-systems-lab-2-back
+	url = https://github.com/dzschnd/info-systems-lab-2-back
+[submodule "info-systems-lab-3-back"]
+	path = info-systems-lab-3-back
+	url = https://github.com/dzschnd/info-systems-lab-3-back
+[submodule "info-systems-lab-3-front"]
+	path = info-systems-lab-3-front
+	url = https://github.com/dzschnd/info-systems-lab-3-front
+[submodule "info-systems-lab-1-back"]
+	path = info-systems-lab-1-back
+	url = https://github.com/dzschnd/info-systems-lab-1-back
+[submodule "info-systems-lab-1-front"]
+	path = info-systems-lab-1-front
+	url = https://github.com/dzschnd/info-systems-lab-1-front
+[submodule "calc-math-lab-6"]
+	path = calc-math-lab-6
+	url = https://github.com/dzschnd/calc-math-lab-6
+[submodule "calc-math-lab-4"]
+	path = calc-math-lab-4
+	url = https://github.com/dzschnd/calc-math-lab-4
+[submodule "calc-math-lab-3"]
+	path = calc-math-lab-3
+	url = https://github.com/dzschnd/calc-math-lab-3
+[submodule "calc-math-lab-2"]
+	path = calc-math-lab-2
+	url = https://github.com/dzschnd/calc-math-lab-2
+[submodule "calc-math-lab-1"]
+	path = calc-math-lab-1
+	url = https://github.com/dzschnd/calc-math-lab-1
+[submodule "web-lab-4-back"]
+	path = web-lab-4-back
+	url = https://github.com/dzschnd/web-lab-4-back
+[submodule "web-lab-4-front"]
+	path = web-lab-4-front
+	url = https://github.com/dzschnd/web-lab-4-front
+[submodule "comp-project"]
+	path = comp-project
+	url = https://github.com/dzschnd/comp-project
